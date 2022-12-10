@@ -1,1 +1,1 @@
-console.log("Hi, Ajinki");
+console.log("Hi, Ajinki ajinki ajinki ................");
