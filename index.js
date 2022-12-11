@@ -1,1 +1,1 @@
-console.log("Hi, Detergent Dominic");
+console.log("Hi, Detergent Domini");
